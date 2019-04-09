@@ -48,6 +48,6 @@ public class ATM {
             return;
         }
     }
-    
+    // вам подарок
 }
 
