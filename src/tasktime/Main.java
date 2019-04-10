@@ -1,8 +1,8 @@
 package tasktime;
 
 public class Main {
-
     public static void main(String[] args) {
-	// write your code here
+        Time f = new Time();
+        f.printF();
     }
 }
